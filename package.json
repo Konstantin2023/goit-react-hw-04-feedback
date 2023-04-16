@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build src/*.html --build-url /goit-react-hw-03-phonebook/",
+    "build": "react-scripts build src/*.html --build-url /goit-react-hw-04-feedback/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
